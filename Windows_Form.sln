@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms_Calculator", "WindowsForms_Calculator\WindowsForms_Calculator.csproj", "{B3D1DE90-9BF1-4144-B59A-6562874ABB55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms_Create_Read_Write_Delete_a_Text_File", "WindowsForms_Create_Read_Write_Delete_a_Text_File\WindowsForms_Create_Read_Write_Delete_a_Text_File.csproj", "{13903990-3E8F-4C30-A08C-2DC65F137657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D1DE90-9BF1-4144-B59A-6562874ABB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D1DE90-9BF1-4144-B59A-6562874ABB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D1DE90-9BF1-4144-B59A-6562874ABB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D1DE90-9BF1-4144-B59A-6562874ABB55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13903990-3E8F-4C30-A08C-2DC65F137657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13903990-3E8F-4C30-A08C-2DC65F137657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13903990-3E8F-4C30-A08C-2DC65F137657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13903990-3E8F-4C30-A08C-2DC65F137657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
